@@ -1,0 +1,14 @@
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.exe.config
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.exe
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.pdb
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.csprojAssemblyReference.cache
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.csproj.CoreCompileInputs.cache
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.exe
+c:\users\magda\source\repos\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.pdb
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.exe.config
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.exe
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\bin\Debug\ProstyKalkulator.pdb
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.csprojAssemblyReference.cache
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.exe
+C:\Users\m.stopka\Desktop\Stopka\ProstyKalkulator\ProstyKalkulator\obj\Debug\ProstyKalkulator.pdb
